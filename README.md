@@ -1,7 +1,7 @@
 # Install Scripts
 
 ### Description
-This (or these) repo is for install scripts to run on new machines and install the basic things I like to have. Currently it
+This repo is for install scripts to run on new machines and install the basic things I like to have. Currently it
 includes basic programs (editors, Slack, preferred browsers, etc) and a few languages I use regularly. Eventually I hope this
 will be enough to setup a new workstation with one script, regardless of OS.
 
